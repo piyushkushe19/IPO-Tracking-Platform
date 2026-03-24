@@ -8,15 +8,8 @@ Track IPO listings, live market updates, manage portfolios & watchlists, and vis
 ## 🎥 Demo
 
 Watch the live demo of the IPO Tracking Platform below:
-<iframe 
-  width="800" 
-  height="450" 
-  src="https://www.youtube.com/embed/4qx0SzIg_Rw?autoplay=1" 
-  title="IPO Tracking Platform Demo" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+
+[![Watch the Demo](https://img.youtube.com/vi/4qx0SzIg_Rw/0.jpg)](https://youtu.be/4qx0SzIg_Rw)
 ---
 
 ## 🏗️ Tech Stack
