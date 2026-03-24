@@ -1,6 +1,7 @@
 # 🚀 IPOTrack — Production-Grade IPO Intelligence Platform
 
-A full-stack MERN application for real-time IPO tracking, modelled after Zerodha/Groww dashboards.
+A full-stack MERN application for real-time IPO tracking, modeled after Zerodha/Groww dashboards.
+Track IPO listings, live market updates, manage portfolios & watchlists, and visualize key metrics in real-time.
 
 ---
 
