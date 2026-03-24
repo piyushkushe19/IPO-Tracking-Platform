@@ -5,6 +5,15 @@ Track IPO listings, live market updates, manage portfolios & watchlists, and vis
 
 ---
 
+## 🎥 Demo
+
+<video width="800" controls>
+  <source src="demo_video/IPO-Tracking_VideoDemo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 🏗️ Tech Stack
 
 | Layer        | Technology                              |
